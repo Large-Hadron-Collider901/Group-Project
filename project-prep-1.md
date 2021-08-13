@@ -8,4 +8,4 @@
 
 ## Conflict Plan
 
-* Our group decided the best way to go about conflict resolution is to set a schedule that gives us time to communicate about how the project is going, our plans fo it, and how we can incorporate all of them properly. With us already having an established friendship, we have many ways to communicate with each other to discuss our thoughts, concerns, and other feeligns to each other.
+* Our group decided the best way to go about conflict resolution is to set a schedule that gives us time to communicate about how the project is going, our plans fo it, and how we can incorporate all of them properly. With us already having an established friendship, we have many ways to communicate with each other to discuss our thoughts, concerns, and other feelings to each other.
