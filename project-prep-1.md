@@ -13,3 +13,7 @@
 ## Communication Plan
 
 We have a plan to work during lab hours and after 7 so we can all contribute to the project. We have each other's numbers, we have a chat in Slack, and we communicate through Discord. We will take breaks between us meeting during lab time and the 7 o'clock hour. Again, we have each other's numbers so if we ever need to get to a team member quickly, that is the best way. To make sure everyone is heard, we will all share ideas with each other and find ways to incorporate them in the best way possible. Taking time to make sure everyone is happy with the progress we've made and allowing everyone to express their thoughts or concerns is important for this project to flourish.
+
+## Work Plan
+
+By understanding each other's strengths and weaknesses, we can draft up ideas on what we want our website to be about, how it will function, and how it will be presented. A detailed wireframe and the schedule made through Google Calendar will act as day-by-day with, keeping track of progress and setting focus days we will split the workload quickly and effectively.
