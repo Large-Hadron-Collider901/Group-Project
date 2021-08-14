@@ -17,3 +17,7 @@ We have a plan to work during lab hours and after 7 so we can all contribute to 
 ## Work Plan
 
 By understanding each other's strengths and weaknesses, we can draft up ideas on what we want our website to be about, how it will function, and how it will be presented. A detailed wireframe and the schedule made through Google Calendar will act as day-by-day with, keeping track of progress and setting focus days we will split the workload quickly and effectively.
+
+## Git Plan
+
+We will communicate in real time through Discord's call option so we all know when someone is working in the file. This will allow one person to work in it while other members brainstorm what they will do once it’s their turn to add to the file.
